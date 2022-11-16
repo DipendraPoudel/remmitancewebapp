@@ -1,0 +1,6 @@
+{
+    "liveshare.showInStatusBar": "never",
+    "liveshare.shareExternalFiles": false,
+    "liveshare.autoShareServers": false,
+    "liveshare.autoShareTerminals": false
+}
